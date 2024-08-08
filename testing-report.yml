@@ -88,11 +88,11 @@
   status: pass
 
 - summary: |
-    Проверка кнопки сдаться
+    Проверка проигрыша
   status: pass
 
 - summary: |
-    Проверка кнопки сброса кода
+    Проверка сброса кода
   status: pass
 
 - summary: |
