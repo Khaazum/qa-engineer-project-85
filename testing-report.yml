@@ -102,3 +102,19 @@
 - summary: |
     Проверка не верного решения
   status: pass
+
+- summary: |
+    Проверка успешной регистрации пользователя через Github
+  status: pass
+
+- summary: |
+    Проверка успешной авторизации пользователя через Github
+  status: pass
+
+- summary: |
+    Проверка успешной регистрации пользователя через Discord
+  status: pass
+
+- summary: |
+    Проверка успешной авторизации пользователя через Discord
+  status: pass
