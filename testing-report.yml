@@ -96,5 +96,9 @@
   status: pass
 
 - summary: |
-    Проверка кнопки Run
+    Успешная проверка решения
+  status: pass
+
+- summary: |
+    Проверка не верного решения
   status: pass
